@@ -3,6 +3,8 @@
 ## prérequis : 
 * Requiert la version 1.7.10 d'arduino pour compiller
 	* (ethernet2 et ethernetudp2)
+* Requiert la librarie 
+	* [cnmatOSC](https://github.com/CNMAT/OSC)	
 * 1 arduino avec ethernet 
 * 1 capteur ultrasonique
 * 1 potentiomètre : "maximum range"
